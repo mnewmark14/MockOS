@@ -1,0 +1,1 @@
+#include "mockos/AbstractFile.h"
